@@ -11,9 +11,9 @@ Deseja-se disponibilizar acesso de forma fácil aos artigos publicados em determ
 
 ## 3. Tecnologias
 ### Tecnologias utilizadas
-- **Linguagem:** 
+- **Linguagem:** Python
 - **Frameworks para front-end:** 
-- **Banco de dados:** 
+- **Banco de dados:** Mongo
 - **Repositório do GitHub:** 
 - **Ferramenta de IA:** GitHub Copilot
 
